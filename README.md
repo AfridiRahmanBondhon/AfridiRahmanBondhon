@@ -11,7 +11,7 @@ Self-motivated and passionate programmer currently studying Computer Science & E
 
 - 🔭 I’m currently working on Road Quality Measurement using Satellite Images Project 
 - 👯 I’m looking to collaborate on Deep Learning and development project according my skill 
-- 📫 How to reach me: 180204128@aust.edu 
+- 📫 How to reach me: afridirb@gmail.com 
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AfridiRahmanBondhon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/afridirahmanbondhon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afridi-rahman-bondhon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/afridirahman.bondhon/)  
